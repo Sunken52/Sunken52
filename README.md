@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Sunken52 - or Kelvin
 - 👀 I’m interested in data science projects - paticularly fully autonomous, production ready pipelines. I also like machine learning/stats/games and building random stuff.
-- 📫 HReach me at kelvin.sun52@gmail.com
+- 📫 Reach me at kelvin.sun52@gmail.com
